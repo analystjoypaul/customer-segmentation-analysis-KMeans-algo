@@ -112,8 +112,8 @@ This plot shows how customers are grouped into 5 clusters based on their **Annua
 - Potential extension: Deploy as a web app using **Streamlit**.
 
 ## 👤 Author
-**Bijoy Paul**  
-[GitHub](https://github.com/BijoyBytes) | [LinkedIn](https://www.linkedin.com/in/bijoybytes/)
+**Joy Paul**  
+[GitHub](analystjoypaul/Customer-Segmentation-Analysis) | [LinkedIn](https://www.linkedin.com/in/analyst-joy-paul/)
 
 ## ⚙️ Requirements
 
